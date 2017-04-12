@@ -83,7 +83,7 @@ def pictureReply():
 
 itchatmp.update_config(itchatmp.WechatConfig(
     token='squirrel',
-    appId='wx28cd173c32454d59',
+    appId='wx28cd73c327454d59',
     appSecret='f740cea1c5027526c56ead4eb12814db'))
 
 
